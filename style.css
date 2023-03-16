@@ -1,0 +1,12 @@
+body {
+    background-color: #252525;
+    color: #fff;
+    font-family: sans-serif;
+
+    height: 300vh;
+}
+
+
+.wrapper {
+    min-height: 1000%;
+}
